@@ -1,0 +1,44 @@
+{
+  "mainDishes" : [
+    {
+      "name" : "PizzaMargherita",
+      "price" : "12.21"
+    },
+
+    {
+      "name" : "Tacos",
+      "price" : "12.32"
+    },
+
+    {
+      "name" : "Bigos",
+      "price" : "12.33"
+    }
+  ],
+
+  "desserts" : [
+    {
+      "name" : "Cake",
+      "price" : "11.53"
+    },
+    {
+      "name" : "Cookies",
+      "price" : "10.11"
+    },
+    {
+      "name" : "Chocolates and Candies",
+      "price" : "13.44"
+    }
+  ],
+
+  "mealtimes" : [
+    "breakfast",
+    "lunch",
+    "supper"
+  ],
+
+  "cuisines" : [
+    "Italian",
+    "French"
+  ]
+}
